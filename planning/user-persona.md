@@ -1,19 +1,18 @@
-# User_Persona
+# User_Personas
 
-**The project objective:** To deploy of website & web applications for
-individual and professionals
+**The project objective of Luroki:** is a cloud services , which means you can
+deploy your project(s) on it , so everyone can see it online.
 
-## Software Developer
+## web Developer
 
-- **Bio:** The users of `Loruki` are professionals that are creative,
-  brainstorming masterminds behind computer programs, and need more resources to
-  build website & web applications.
-- **Goals:** an easy to understand website to build a platform
-- **Frustrations:** for a others developers they find the resources that are
-  already available to hard to work with & understand.
-
-- **Scenario:** Make an website, get knowledge how we can create web
-  applications
+- **Bio:** Jerry is a **Web developer** who want to deploy his projects all the
+  time.
+- **Need/Goals:** He is looking for a cheap, easy & secure platform to deploy
+  his projects.
+- **Frustrations:** other platform are expensive and not secure to deploy his
+  projects, and hard to manage to configuration.
+- **Scenario:** Jerry is looking for a new platform to deploy his projects, he
+  does not want to spend a lot of time & need a secure platform for his project.
 
 ## Student software engineer
 

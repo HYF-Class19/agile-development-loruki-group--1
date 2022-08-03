@@ -11,7 +11,7 @@
 
   - Copyright license
 
-- [x] As a **software developer** I want to see showcase on Home page
+- [x] As a **web developer** I want to see showcase on Home page
   - A form to request a demo of website.
   - Small introduction of easier deployment
 
@@ -19,7 +19,7 @@
 
 > these will complete the user experience, but are not necessary
 
-- As a software developer I want to see on Home page
+- As a web developer I want to see on Home page
   - [x] Statistics of website data.
   - [x] Supported Languages
 - As a user I want to see on Features page

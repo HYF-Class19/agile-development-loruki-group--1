@@ -41,7 +41,9 @@ to establish the structure and flow of possible design solutions.
 - This user story is developed on branch `title`.
 - This branch is merged to `master` branch after completion.
 
-**As a user I want to see the title of Loruki On Features Page,**
+## **As a user I want to see the title of Loruki On Features Page,**
+
+---
 
 ### 2. nav bar
 
@@ -49,6 +51,8 @@ to establish the structure and flow of possible design solutions.
 
 - This user story is developed on branch `nav-bar`.
 - This branch is merged to `master` branch after completion.
+
+---
 
 ### 3. Showcase
 
@@ -72,6 +76,8 @@ include:
   - ...`<button>` link for read more information
   - ...`<form>` form for names and email & button for send
 
+---
+
 ### 4. Section -0
 
 - This user story is developed on branch `sec-1`.
@@ -94,6 +100,8 @@ Home page include:,
   - ...`<h3>` headers for names applications
   - ...`<div>` for classes
 
+---
+
 ### 5. Section -1
 
 - This user story is developed on branch `sec-2`.
@@ -112,6 +120,8 @@ Home page include:,
 
   - Style `HTML` section -1
 
+---
+
 ### 6. Section
 
 - This user story is developed on branch `sec-3`.
@@ -129,6 +139,8 @@ Supported Languages wheres
 - `CSS`
 
   - Style `HTML` 6. section elements
+
+---
 
 ### 7. footer
 

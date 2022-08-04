@@ -41,13 +41,13 @@ to establish the structure and flow of possible design solutions.
 - This user story is developed on branch `title`.
 - This branch is merged to `master` branch after completion.
 
-## **As a user I want to see the title of Loruki On Features Page,**
+## **As a user I want to see the title page,**
 
 ---
 
 ### 2. nav bar
 
-**As user I want to see the nav bar on the Home page, Features & docs,**
+**As user I want to see the navbar on the Home page, Features & docs,**
 
 - This user story is developed on branch `nav-bar`.
 - This branch is merged to `master` branch after completion.

@@ -1,1 +1,67 @@
 @import url("./something.css");
+
+/* General */
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  text-align: -webkit-match-parent;
+}
+
+/* navbar */
+h1,
+h2 {
+  line-height: 1.2;
+  margin: 10px 0;
+  font-weight: 300;
+}
+
+h1 {
+  display: block;
+}
+
+.flex {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 1100px;
+  padding: 0 40px;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.navbar {
+  height: 70px;
+  background-color: aqua;
+}
+
+.navbar ul {
+  display: flex;
+}
+
+.navbar a {
+  padding: 15px;
+  margin: 0 7px;
+}
+
+.navbar a:hover {
+  background-color: gray;
+  color: white;
+  border-radius: 21px;
+}

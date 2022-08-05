@@ -10,8 +10,6 @@ Some boundaries around our project.
 
 ## Internal: Involuntary
 
-- 1 week deadline
-
 ### Tools
 
 - Git

@@ -1,9 +1,9 @@
-# User_Personas
+# User personas
 
 **The project objective of Luroki:** is a cloud services , which means you can
 deploy your project(s) on it , so everyone can see it online.
 
-## web Developer
+## A web Developer learner
 
 - **Bio:** Jerry is a **Web developer** who want to deploy his projects all the
   time.
@@ -14,7 +14,7 @@ deploy your project(s) on it , so everyone can see it online.
 - **Scenario:** Jerry is looking for a new platform to deploy his projects, he
   does not want to spend a lot of time & need a secure platform for his project.
 
-## Student software engineer
+## Software engineer Student
 
 - **Bio** Eric is the software engineering student at high school interested in
   web applications

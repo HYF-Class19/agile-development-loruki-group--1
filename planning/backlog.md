@@ -11,7 +11,7 @@
 
   - Copyright license
 
-- [x] As a **web developer** I want to see showcase on Home page
+- [x] As a **user** I want to see a form demo on Home page
   - A form to request a demo of website.
   - Small introduction of easier deployment
 

@@ -65,3 +65,44 @@ h1 {
   color: white;
   border-radius: 21px;
 }
+
+.languages {
+  margin-top: 30%;
+  margin-left: 20%;
+  margin-right: 20%;
+  
+}
+.sl {
+  text-align: center;
+}
+
+
+.languages .logo {
+  text-align: center;
+  margin: 18px 10px 40px;
+  transition: transform 0.2s ease-in;
+  box-shadow: -1px 2px 0.2em grey;
+  height: 120px;
+  width: 100px;
+} 
+.logosize {
+  height: 80px;
+  width: 50px;
+}
+.languages .flex {
+ flex-wrap: wrap;
+}
+.languages .logo h4{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.languages .logo:hover{
+  transform: translateY(-15px)
+}
+
+.languagecontainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

@@ -154,6 +154,7 @@ h1 {
   margin-left: 20%;
   margin-right: 20%;
 }
+
 .sl {
   text-align: center;
 }
@@ -166,17 +167,21 @@ h1 {
   height: 120px;
   width: 100px;
 }
+
 .logoSize {
   height: 80px;
   width: 50px;
 }
+
 .languages .flex {
   flex-wrap: wrap;
 }
+
 .languages .logo h4 {
   font-size: 20px;
   margin-bottom: 10px;
 }
+
 .languages .logo:hover {
   transform: translateY(-15px);
 }

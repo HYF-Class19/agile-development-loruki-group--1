@@ -1,128 +1,63 @@
-# Name of project
+# Loruki
 
-> A longer description
+Is a cloud services hosting, which means you can deploy your project(s) on it ,
+so everyone can see it online
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Loruki](#loruki)
   - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
-  - [Status](#status)
   - [Inspiration](#inspiration)
   - [Contact](#contact)
-  - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
-
-## General info
-
-> A short description
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./images/screenshoot.png)
 
 ## Technologies
 
-- Node 14.16.0
-- VSC code
-- JavaScript
-- ...
-- ...
+|              |                                                                                                                                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| MarkDown     | ![npm](https://img.shields.io/badge/-MarkDown-black?style=flat-circule&logo=markdown&logoColor=white)                                                                                                   |
+| Git & GitHub | ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) ![GitHub](https://img.shields.io/badge/-Github-ffffff?style=flat-square&logo=github&logoColor=black) |
+| VSCODE       | ![VSCode](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)                                                                                                     |
+| Node & npm   | ![node](https://img.shields.io/badge/-node-js%23CC6699?style=flat-square&logo=node-js&logoColor=ffffff) ![npm](https://img.shields.io/badge/-npm-white?style=flat-circule&logo=npm&logoColor=white)     |
+| HTML & CSS   | ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)                 |
 
 ## Setup
 
-- `npm run start`
-
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
-
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
-
-## Status
-
-Project is: _in progress_
+- Create [github account](www.github.com)
+- Create a
+  [repository](https://github.com/HYF-Class19/agile-development-loruki-group-1)
+- Clone a repository and start editing
+- Create a board [project](https://github.com/orgs/HYF-Class19/projects/11)
+- Create
+  [issues](https://github.com/HYF-Class19/agile-development-loruki-group-1/issues)
+- download vscode & install [sorce](https://code.visualstudio.com/download)
+- Have a git version on your computer
+- install node packages manager
+  ![npm](https://img.shields.io/badge/-Node_packages_manager-black?style=flat-circule&logo=npm&)
+- Edit CSS file & HTML files
+- Run npm scripts:
+  - `npm run format`
+  - `npm run format:check`
+  - `npm run lint:ls`
+  - `npm run lint:md`
+  - `npm run lint:css`
+  - `npm run validate:html`
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+- [w3school](https://www.w3schools.com/)
+- [Stackoverflow](https://stackoverflow.com/)
+- [Habr](https://habr.com/en/all/)
 
 ## Contact
 
-By [Name]
-
-## Instructions for use
-
-<details>
-  <summary>Getting Started</summary>
-
-<!-- a guide to using this repository -->
-
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
-
-## Code Quality Checks
-
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Checks to make sure all folder and file names match the
-  repository conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository.
-- `npm run lint:css`: Will lint all of the CSS files in this repository.
-- `npm run validate:html`: Validates all HTML files in your project.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
-- `npm run accessibility -- ./path/to/file.html`: Runs an accessibility analysis
-  on all HTML files in the given path and writes the report to
-  `/accessibility_report`
-
-## Continuous Integration (CI)
-
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running the code quality scripts
-locally.
-
-## Repo Setup
-
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
-
-</details>
+| bibhasingh                                                                                                         | Elnura                                                                                                     | Galal                                                                                                    | Nashmia Burki                                                                                                | Valeriya                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| [GitHub](https://github.com/bibhasingh)                                                                            | [GitHub](https://github.com/Elya88)                                                                        | [GitHub](https://github.com/galalkoro98)                                                                 | [GitHub](https://github.com/nashmiab)                                                                        | [GitHub](https://github.com/V-Valkiriya)                                                                       |
+| ![bibhasingh](https://github.com/HYF-Class19/agile-development-group-1/blob/master/images/bibhasingh.png?raw=true) | ![Elnura](https://github.com/HYF-Class19/agile-development-group-1/blob/master/images/elnura.png?raw=true) | ![Galal](https://github.com/HYF-Class19/agile-development-group-1/blob/master/images/galal.png?raw=true) | ![nashmia](https://github.com/HYF-Class19/agile-development-group-1/blob/master/images/nashmia.png?raw=true) | ![valeriya](https://github.com/HYF-Class19/agile-development-group-1/blob/master/images/Valeriya.png?raw=true) |

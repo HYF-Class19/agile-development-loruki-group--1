@@ -1,8 +1,31 @@
 @import url("./something.css");
 @import url("./animation.css");
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@100&family=Lato:wght@300&display=swap");
+
+body {
+  font-family: "Lato", sans-serif;
+  color: #333;
+  line-height: 1.6;
+}
+
+:root {
+  --primary-color: #047aed;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
 
 a {
   text-decoration: none;
+}
+
+.social a {
+  color: #fff;
+  margin: 0 10px;
 }
 
 ul {
@@ -148,3 +171,160 @@ h1 {
     box-shadow: 0 0 25px #5ddcff, 0 0 50px #4e00c2;
   }
 }
+
+/* start 4 section-0 */
+
+.card {
+  background-color: #fff;
+  color: #333;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+  padding: 20px;
+  margin: 10px;
+}
+
+.stats {
+  padding-top: 100px;
+}
+
+.stats-heading {
+  max-width: 500px;
+  margin: auto;
+}
+
+.stats .grid h3 {
+  font-size: 35px;
+}
+
+.stats .grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.cli {
+  width: 100%;
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.text-center {
+  text-align: center;
+}
+
+/* Cli */
+
+.cli .grid {
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+.cli .grid > *:first-child {
+  grid-column: 1 / span 2;
+  grid-row: 1 / span 2;
+}
+
+/* end 4 section-0 */
+
+.languages {
+  margin-top: 30%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.sl {
+  text-align: center;
+}
+
+.languages .logo {
+  text-align: center;
+  margin: 18px 10px 40px;
+  transition: transform 0.2s ease-in;
+  box-shadow: -1px 2px 0.2em grey;
+  height: 120px;
+  width: 100px;
+}
+
+.logoSize {
+  height: 80px;
+  width: 50px;
+}
+
+.languages .flex {
+  flex-wrap: wrap;
+}
+
+.languages .logo h4 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.languages .logo:hover {
+  transform: translateY(-15px);
+}
+
+.languageContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/* Footer */
+
+.footer {
+  margin: 0 0;
+}
+
+.bgdark {
+  background-color: #002240;
+  color: #fff;
+}
+
+.py5 {
+  padding: 4rem 0;
+}
+
+.containerfoot {
+  max-width: 1100px;
+  margin: 0 auto;
+  overflow: auto;
+  padding: 0 40px;
+}
+
+.gridfoot {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.gridfoot-2 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.navfoot a:visited {
+  text-decoration: none;
+  color: #fff;
+}
+
+.fa-github:hover {
+  color: #000;
+}
+
+.fa-facebook:hover {
+  color: #1773ea;
+}
+
+.fa-instagram:hover {
+  color: #b32e87;
+}
+
+.fa-twitter:hover {
+  color: #1c9cea;
+}
+
+/* 4 section-0 */
